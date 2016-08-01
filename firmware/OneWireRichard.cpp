@@ -142,7 +142,7 @@ sample code bearing this copyright.
 //--------------------------------------------------------------------------
 */
 
-#include "OneWire.h"
+#include "OneWireRichard.h"
 #include "application.h"
 
 OneWire::OneWire(uint16_t pin)
